@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/prasadsheetal/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/prasadsheetal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/prasadsheetal/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/prasadsheetal/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/prasadsheetal/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prasadsheetal/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prasadsheetal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prasadsheetal/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/prasadsheetal/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/prasadsheetal/LeetCode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
@@ -104,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/prasadsheetal/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/prasadsheetal/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/prasadsheetal/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
