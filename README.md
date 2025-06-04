@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/prasadsheetal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/prasadsheetal/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/prasadsheetal/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/prasadsheetal/LeetCode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/prasadsheetal/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/prasadsheetal/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/prasadsheetal/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/prasadsheetal/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/prasadsheetal/LeetCode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prasadsheetal/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/prasadsheetal/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/prasadsheetal/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,4 +110,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/prasadsheetal/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/prasadsheetal/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/prasadsheetal/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/prasadsheetal/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prasadsheetal/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
