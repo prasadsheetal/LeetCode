@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/prasadsheetal/LeetCode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/prasadsheetal/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/prasadsheetal/LeetCode/tree/master/0283-move-zeroes) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/prasadsheetal/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/prasadsheetal/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/prasadsheetal/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/prasadsheetal/LeetCode/tree/master/0189-rotate-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/prasadsheetal/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
