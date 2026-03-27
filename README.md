@@ -155,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/prasadsheetal/LeetCode/tree/master/0035-search-insert-position) |
+## Database
+|  |
+| ------- |
+| [1075-project-employees-i](https://github.com/prasadsheetal/LeetCode/tree/master/1075-project-employees-i) |
 <!---LeetCode Topics End-->
