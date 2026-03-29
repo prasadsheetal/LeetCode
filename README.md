@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/prasadsheetal/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0550-game-play-analysis-iv](https://github.com/prasadsheetal/LeetCode/tree/master/0550-game-play-analysis-iv) |
 | [0595-big-countries](https://github.com/prasadsheetal/LeetCode/tree/master/0595-big-countries) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/prasadsheetal/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1075-project-employees-i](https://github.com/prasadsheetal/LeetCode/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/prasadsheetal/LeetCode/tree/master/1148-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/prasadsheetal/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
