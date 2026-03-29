@@ -163,5 +163,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/prasadsheetal/LeetCode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/prasadsheetal/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [1075-project-employees-i](https://github.com/prasadsheetal/LeetCode/tree/master/1075-project-employees-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/prasadsheetal/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/prasadsheetal/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
