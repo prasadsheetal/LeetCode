@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/prasadsheetal/LeetCode/tree/master/0176-second-highest-salary) |
 | [0184-department-highest-salary](https://github.com/prasadsheetal/LeetCode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/prasadsheetal/LeetCode/tree/master/0185-department-top-three-salaries) |
+| [0197-rising-temperature](https://github.com/prasadsheetal/LeetCode/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/prasadsheetal/LeetCode/tree/master/0550-game-play-analysis-iv) |
 | [0577-employee-bonus](https://github.com/prasadsheetal/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/prasadsheetal/LeetCode/tree/master/0584-find-customer-referee) |
