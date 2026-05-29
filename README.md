@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prasadsheetal/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/prasadsheetal/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/prasadsheetal/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prasadsheetal/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/prasadsheetal/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/prasadsheetal/LeetCode/tree/master/0189-rotate-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/prasadsheetal/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prasadsheetal/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
