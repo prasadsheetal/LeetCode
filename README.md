@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prasadsheetal/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/prasadsheetal/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/prasadsheetal/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/prasadsheetal/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/prasadsheetal/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/prasadsheetal/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/prasadsheetal/LeetCode/tree/master/0344-reverse-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/prasadsheetal/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/prasadsheetal/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/prasadsheetal/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/prasadsheetal/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/prasadsheetal/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/prasadsheetal/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/prasadsheetal/LeetCode/tree/master/0326-power-of-three) |
@@ -201,6 +203,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/prasadsheetal/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/prasadsheetal/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/prasadsheetal/LeetCode/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/prasadsheetal/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
