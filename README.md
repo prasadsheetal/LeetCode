@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/prasadsheetal/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/prasadsheetal/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/prasadsheetal/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [1929-concatenation-of-array](https://github.com/prasadsheetal/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/prasadsheetal/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prasadsheetal/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
@@ -216,4 +217,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prasadsheetal/LeetCode/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/prasadsheetal/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
