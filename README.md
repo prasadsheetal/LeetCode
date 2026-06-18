@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/prasadsheetal/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/prasadsheetal/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/prasadsheetal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/prasadsheetal/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/prasadsheetal/LeetCode/tree/master/0724-find-pivot-index) |
 | [1470-shuffle-the-array](https://github.com/prasadsheetal/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/prasadsheetal/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/prasadsheetal/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/prasadsheetal/LeetCode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/prasadsheetal/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/prasadsheetal/LeetCode/tree/master/0704-binary-search) |
 ## Database
 |  |
 | ------- |
