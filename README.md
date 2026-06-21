@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prasadsheetal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prasadsheetal/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/prasadsheetal/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/prasadsheetal/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/prasadsheetal/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/prasadsheetal/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prasadsheetal/LeetCode/tree/master/0189-rotate-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/prasadsheetal/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/prasadsheetal/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/prasadsheetal/LeetCode/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/prasadsheetal/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/prasadsheetal/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prasadsheetal/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/prasadsheetal/LeetCode/tree/master/0169-majority-element) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/prasadsheetal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prasadsheetal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prasadsheetal/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/prasadsheetal/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/prasadsheetal/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/prasadsheetal/LeetCode/tree/master/0509-fibonacci-number) |
 ## Linked List
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/prasadsheetal/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/prasadsheetal/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/prasadsheetal/LeetCode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/prasadsheetal/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/prasadsheetal/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/prasadsheetal/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/prasadsheetal/LeetCode/tree/master/0344-reverse-string) |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/prasadsheetal/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/prasadsheetal/LeetCode/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -248,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prasadsheetal/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/prasadsheetal/LeetCode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/prasadsheetal/LeetCode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
