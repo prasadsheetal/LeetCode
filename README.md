@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prasadsheetal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prasadsheetal/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/prasadsheetal/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/prasadsheetal/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/prasadsheetal/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/prasadsheetal/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/prasadsheetal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prasadsheetal/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/prasadsheetal/LeetCode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/prasadsheetal/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 ## Trie
 |  |
