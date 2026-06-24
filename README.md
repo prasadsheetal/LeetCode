@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/prasadsheetal/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/prasadsheetal/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/prasadsheetal/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/prasadsheetal/LeetCode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/prasadsheetal/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/prasadsheetal/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prasadsheetal/LeetCode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/prasadsheetal/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/prasadsheetal/LeetCode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/prasadsheetal/LeetCode/tree/master/2235-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/prasadsheetal/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/prasadsheetal/LeetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/prasadsheetal/LeetCode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/prasadsheetal/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/prasadsheetal/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Tree
