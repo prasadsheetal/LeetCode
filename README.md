@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/prasadsheetal/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/prasadsheetal/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/prasadsheetal/LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/prasadsheetal/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/prasadsheetal/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/prasadsheetal/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/prasadsheetal/LeetCode/tree/master/0412-fizz-buzz) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/prasadsheetal/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/prasadsheetal/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/prasadsheetal/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/prasadsheetal/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/prasadsheetal/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/prasadsheetal/LeetCode/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
@@ -332,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prasadsheetal/LeetCode/tree/master/0258-add-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/prasadsheetal/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
