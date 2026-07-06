@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/prasadsheetal/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/prasadsheetal/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prasadsheetal/LeetCode/tree/master/0415-add-strings) |
+| [1154-day-of-the-year](https://github.com/prasadsheetal/LeetCode/tree/master/1154-day-of-the-year) |
 ## Sliding Window
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/prasadsheetal/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/prasadsheetal/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/prasadsheetal/LeetCode/tree/master/0509-fibonacci-number) |
+| [1154-day-of-the-year](https://github.com/prasadsheetal/LeetCode/tree/master/1154-day-of-the-year) |
 | [2235-add-two-integers](https://github.com/prasadsheetal/LeetCode/tree/master/2235-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/prasadsheetal/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prasadsheetal/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
