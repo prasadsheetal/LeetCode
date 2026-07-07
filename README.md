@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/prasadsheetal/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/prasadsheetal/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/prasadsheetal/LeetCode/tree/master/0344-reverse-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/prasadsheetal/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/prasadsheetal/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prasadsheetal/LeetCode/tree/master/0415-add-strings) |
 | [1154-day-of-the-year](https://github.com/prasadsheetal/LeetCode/tree/master/1154-day-of-the-year) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/prasadsheetal/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/prasadsheetal/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prasadsheetal/LeetCode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/prasadsheetal/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/prasadsheetal/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prasadsheetal/LeetCode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/prasadsheetal/LeetCode/tree/master/0492-construct-the-rectangle) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/prasadsheetal/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prasadsheetal/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/prasadsheetal/LeetCode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/prasadsheetal/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
 | ------- |
