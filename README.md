@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/prasadsheetal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/prasadsheetal/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/prasadsheetal/LeetCode/tree/master/0724-find-pivot-index) |
+| [0976-largest-perimeter-triangle](https://github.com/prasadsheetal/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1146-snapshot-array](https://github.com/prasadsheetal/LeetCode/tree/master/1146-snapshot-array) |
 | [1470-shuffle-the-array](https://github.com/prasadsheetal/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/prasadsheetal/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/prasadsheetal/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/prasadsheetal/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasadsheetal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/prasadsheetal/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1154-day-of-the-year](https://github.com/prasadsheetal/LeetCode/tree/master/1154-day-of-the-year) |
 | [2235-add-two-integers](https://github.com/prasadsheetal/LeetCode/tree/master/2235-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/prasadsheetal/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prasadsheetal/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/prasadsheetal/LeetCode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/prasadsheetal/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0976-largest-perimeter-triangle](https://github.com/prasadsheetal/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Trie
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prasadsheetal/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prasadsheetal/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasadsheetal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/prasadsheetal/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Counting
 |  |
 | ------- |
