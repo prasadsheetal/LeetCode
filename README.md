@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/prasadsheetal/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/prasadsheetal/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/prasadsheetal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/prasadsheetal/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasadsheetal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/prasadsheetal/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/prasadsheetal/LeetCode/tree/master/0724-find-pivot-index) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/prasadsheetal/LeetCode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/prasadsheetal/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/prasadsheetal/LeetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/prasadsheetal/LeetCode/tree/master/0561-array-partition) |
 | [0976-largest-perimeter-triangle](https://github.com/prasadsheetal/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Trie
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prasadsheetal/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/prasadsheetal/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/prasadsheetal/LeetCode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/prasadsheetal/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasadsheetal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/prasadsheetal/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Counting
@@ -405,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/prasadsheetal/LeetCode/tree/master/0836-rectangle-overlap) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/prasadsheetal/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
