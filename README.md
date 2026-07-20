@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/prasadsheetal/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/prasadsheetal/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/prasadsheetal/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/prasadsheetal/LeetCode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/prasadsheetal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/prasadsheetal/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasadsheetal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prasadsheetal/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prasadsheetal/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/prasadsheetal/LeetCode/tree/master/0290-word-pattern) |
+| [0500-keyboard-row](https://github.com/prasadsheetal/LeetCode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/prasadsheetal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1146-snapshot-array](https://github.com/prasadsheetal/LeetCode/tree/master/1146-snapshot-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prasadsheetal/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/prasadsheetal/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/prasadsheetal/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prasadsheetal/LeetCode/tree/master/0415-add-strings) |
+| [0500-keyboard-row](https://github.com/prasadsheetal/LeetCode/tree/master/0500-keyboard-row) |
 | [1154-day-of-the-year](https://github.com/prasadsheetal/LeetCode/tree/master/1154-day-of-the-year) |
 ## Sliding Window
 |  |
