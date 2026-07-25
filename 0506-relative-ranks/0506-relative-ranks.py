@@ -4,7 +4,6 @@ class Solution:
 
         rank = {}
 
-        # Assign rank to every score
         for i, value in enumerate(sorted_scores):
 
             if i == 0:
@@ -19,7 +18,6 @@ class Solution:
             else:
                 rank[value] = str(i + 1)
 
-        # Build answer in original order
         answer = []
 
         for value in score:
