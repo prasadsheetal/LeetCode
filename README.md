@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/prasadsheetal/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/prasadsheetal/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/prasadsheetal/LeetCode/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prasadsheetal/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/prasadsheetal/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/prasadsheetal/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/prasadsheetal/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prasadsheetal/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prasadsheetal/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/prasadsheetal/LeetCode/tree/master/0290-word-pattern) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/prasadsheetal/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/prasadsheetal/LeetCode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/prasadsheetal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/prasadsheetal/LeetCode/tree/master/0575-distribute-candies) |
