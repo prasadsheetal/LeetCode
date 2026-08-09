@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/prasadsheetal/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/prasadsheetal/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/prasadsheetal/LeetCode/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/prasadsheetal/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/prasadsheetal/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/prasadsheetal/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/prasadsheetal/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/prasadsheetal/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/prasadsheetal/LeetCode/tree/master/0342-power-of-four) |
