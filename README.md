@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/prasadsheetal/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/prasadsheetal/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/prasadsheetal/LeetCode/tree/master/0575-distribute-candies) |
+| [0598-range-addition-ii](https://github.com/prasadsheetal/LeetCode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasadsheetal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/prasadsheetal/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/prasadsheetal/LeetCode/tree/master/0645-set-mismatch) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/prasadsheetal/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/prasadsheetal/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/prasadsheetal/LeetCode/tree/master/0509-fibonacci-number) |
+| [0598-range-addition-ii](https://github.com/prasadsheetal/LeetCode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasadsheetal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/prasadsheetal/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/prasadsheetal/LeetCode/tree/master/0836-rectangle-overlap) |
