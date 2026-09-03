@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/prasadsheetal/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/prasadsheetal/LeetCode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/prasadsheetal/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0748-shortest-completing-word](https://github.com/prasadsheetal/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/prasadsheetal/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/prasadsheetal/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/prasadsheetal/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/prasadsheetal/LeetCode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/prasadsheetal/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/prasadsheetal/LeetCode/tree/master/0645-set-mismatch) |
+| [0748-shortest-completing-word](https://github.com/prasadsheetal/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/prasadsheetal/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1146-snapshot-array](https://github.com/prasadsheetal/LeetCode/tree/master/1146-snapshot-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prasadsheetal/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/prasadsheetal/LeetCode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/prasadsheetal/LeetCode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/prasadsheetal/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0748-shortest-completing-word](https://github.com/prasadsheetal/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/prasadsheetal/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1154-day-of-the-year](https://github.com/prasadsheetal/LeetCode/tree/master/1154-day-of-the-year) |
 ## Sliding Window
