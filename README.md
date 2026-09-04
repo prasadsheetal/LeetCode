@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/prasadsheetal/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/prasadsheetal/LeetCode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/prasadsheetal/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0697-degree-of-an-array](https://github.com/prasadsheetal/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/prasadsheetal/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/prasadsheetal/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/prasadsheetal/LeetCode/tree/master/0733-flood-fill) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/prasadsheetal/LeetCode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/prasadsheetal/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/prasadsheetal/LeetCode/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/prasadsheetal/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/prasadsheetal/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/prasadsheetal/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [1146-snapshot-array](https://github.com/prasadsheetal/LeetCode/tree/master/1146-snapshot-array) |
