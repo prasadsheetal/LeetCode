@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/prasadsheetal/LeetCode/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/prasadsheetal/LeetCode/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/prasadsheetal/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/prasadsheetal/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasadsheetal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/prasadsheetal/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/prasadsheetal/LeetCode/tree/master/0645-set-mismatch) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/prasadsheetal/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/prasadsheetal/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/prasadsheetal/LeetCode/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/prasadsheetal/LeetCode/tree/master/0605-can-place-flowers) |
 | [0976-largest-perimeter-triangle](https://github.com/prasadsheetal/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Trie
 |  |
