@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/prasadsheetal/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prasadsheetal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prasadsheetal/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/prasadsheetal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/prasadsheetal/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/prasadsheetal/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/prasadsheetal/LeetCode/tree/master/0139-word-break) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/prasadsheetal/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/prasadsheetal/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/prasadsheetal/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/prasadsheetal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/prasadsheetal/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/prasadsheetal/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/prasadsheetal/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -505,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/prasadsheetal/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/prasadsheetal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
