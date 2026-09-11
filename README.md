@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/prasadsheetal/LeetCode/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prasadsheetal/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/prasadsheetal/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/prasadsheetal/LeetCode/tree/master/0617-merge-two-binary-trees) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/prasadsheetal/LeetCode/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prasadsheetal/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/prasadsheetal/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/prasadsheetal/LeetCode/tree/master/0463-island-perimeter) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/prasadsheetal/LeetCode/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prasadsheetal/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/prasadsheetal/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/prasadsheetal/LeetCode/tree/master/0617-merge-two-binary-trees) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/prasadsheetal/LeetCode/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/prasadsheetal/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/prasadsheetal/LeetCode/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/prasadsheetal/LeetCode/tree/master/0617-merge-two-binary-trees) |
