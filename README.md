@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/prasadsheetal/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/prasadsheetal/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/prasadsheetal/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/prasadsheetal/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/prasadsheetal/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/prasadsheetal/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/prasadsheetal/LeetCode/tree/master/0415-add-strings) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/prasadsheetal/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/prasadsheetal/LeetCode/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prasadsheetal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/prasadsheetal/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/prasadsheetal/LeetCode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/prasadsheetal/LeetCode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/prasadsheetal/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
