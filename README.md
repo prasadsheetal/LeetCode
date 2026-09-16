@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/prasadsheetal/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0812-largest-triangle-area](https://github.com/prasadsheetal/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/prasadsheetal/LeetCode/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/prasadsheetal/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0976-largest-perimeter-triangle](https://github.com/prasadsheetal/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/prasadsheetal/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1146-snapshot-array](https://github.com/prasadsheetal/LeetCode/tree/master/1146-snapshot-array) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/prasadsheetal/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/prasadsheetal/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/prasadsheetal/LeetCode/tree/master/0819-most-common-word) |
+| [0821-shortest-distance-to-a-character](https://github.com/prasadsheetal/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [1154-day-of-the-year](https://github.com/prasadsheetal/LeetCode/tree/master/1154-day-of-the-year) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prasadsheetal/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/prasadsheetal/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/prasadsheetal/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/prasadsheetal/LeetCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/prasadsheetal/LeetCode/tree/master/0567-permutation-in-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/prasadsheetal/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/prasadsheetal/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
