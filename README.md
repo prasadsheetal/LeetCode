@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/prasadsheetal/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/prasadsheetal/LeetCode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/prasadsheetal/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0827-making-a-large-island](https://github.com/prasadsheetal/LeetCode/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/prasadsheetal/LeetCode/tree/master/0832-flipping-an-image) |
 | [0976-largest-perimeter-triangle](https://github.com/prasadsheetal/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1004-max-consecutive-ones-iii](https://github.com/prasadsheetal/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/prasadsheetal/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/prasadsheetal/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/prasadsheetal/LeetCode/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/prasadsheetal/LeetCode/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/prasadsheetal/LeetCode/tree/master/0832-flipping-an-image) |
 ## Sorting
 |  |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/prasadsheetal/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/prasadsheetal/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/prasadsheetal/LeetCode/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/prasadsheetal/LeetCode/tree/master/0827-making-a-large-island) |
 | [0938-range-sum-of-bst](https://github.com/prasadsheetal/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/prasadsheetal/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/prasadsheetal/LeetCode/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/prasadsheetal/LeetCode/tree/master/0827-making-a-large-island) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -572,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prasadsheetal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0827-making-a-large-island](https://github.com/prasadsheetal/LeetCode/tree/master/0827-making-a-large-island) |
 ## Bucket Sort
 |  |
 | ------- |
