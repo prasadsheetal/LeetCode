@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/prasadsheetal/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/prasadsheetal/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0938-range-sum-of-bst](https://github.com/prasadsheetal/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/prasadsheetal/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/prasadsheetal/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/prasadsheetal/LeetCode/tree/master/0733-flood-fill) |
+| [0938-range-sum-of-bst](https://github.com/prasadsheetal/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prasadsheetal/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/prasadsheetal/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0938-range-sum-of-bst](https://github.com/prasadsheetal/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/prasadsheetal/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0938-range-sum-of-bst](https://github.com/prasadsheetal/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Design
 |  |
 | ------- |
