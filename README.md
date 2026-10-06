@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/prasadsheetal/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/prasadsheetal/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/prasadsheetal/LeetCode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/prasadsheetal/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/prasadsheetal/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Linked List
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/prasadsheetal/LeetCode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/prasadsheetal/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/prasadsheetal/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0678-valid-parenthesis-string](https://github.com/prasadsheetal/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0748-shortest-completing-word](https://github.com/prasadsheetal/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/prasadsheetal/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/prasadsheetal/LeetCode/tree/master/0819-most-common-word) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/prasadsheetal/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/prasadsheetal/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/prasadsheetal/LeetCode/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/prasadsheetal/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0976-largest-perimeter-triangle](https://github.com/prasadsheetal/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Trie
 |  |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/prasadsheetal/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/prasadsheetal/LeetCode/tree/master/0143-reorder-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/prasadsheetal/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/prasadsheetal/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/prasadsheetal/LeetCode/tree/master/0682-baseball-game) |
 ## Heap (Priority Queue)
 |  |
@@ -608,4 +612,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/prasadsheetal/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/prasadsheetal/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
