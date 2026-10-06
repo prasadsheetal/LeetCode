@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/prasadsheetal/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/prasadsheetal/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prasadsheetal/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/prasadsheetal/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/prasadsheetal/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/prasadsheetal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prasadsheetal/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/prasadsheetal/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/prasadsheetal/LeetCode/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/prasadsheetal/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/prasadsheetal/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/prasadsheetal/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/prasadsheetal/LeetCode/tree/master/0733-flood-fill) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/prasadsheetal/LeetCode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/prasadsheetal/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/prasadsheetal/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/prasadsheetal/LeetCode/tree/master/0404-sum-of-left-leaves) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/prasadsheetal/LeetCode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/prasadsheetal/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/prasadsheetal/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/prasadsheetal/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/prasadsheetal/LeetCode/tree/master/0463-island-perimeter) |
@@ -582,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prasadsheetal/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/prasadsheetal/LeetCode/tree/master/0200-number-of-islands) |
 | [0827-making-a-large-island](https://github.com/prasadsheetal/LeetCode/tree/master/0827-making-a-large-island) |
 ## Bucket Sort
 |  |
