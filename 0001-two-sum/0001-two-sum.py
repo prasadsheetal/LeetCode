@@ -1,23 +1,14 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        pairs = [(nums[i], i) for i in range(len(nums))]
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
+        seen = {}
 
-        pairs.sort()
+        for i,num in enumerate(nums):
+            complement = target - num
 
-        left = 0
-        right = len(pairs) - 1
+            if complement in seen:
+                return [seen[complement],i]
 
-        while left < right:
-            total = pairs[left][0] + pairs[right][0]
+            seen[num] = i
 
-            if total == target:
-                return [pairs[left][1], pairs[right][1]]
-            elif total<target:
-                left+=1
-            else:
-                right-=1
         return []
-
         
-          
-
