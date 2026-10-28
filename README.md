@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/prasadsheetal/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/prasadsheetal/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/prasadsheetal/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/prasadsheetal/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/prasadsheetal/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prasadsheetal/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/prasadsheetal/LeetCode/tree/master/0200-number-of-islands) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/prasadsheetal/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/prasadsheetal/LeetCode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/prasadsheetal/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/prasadsheetal/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/prasadsheetal/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/prasadsheetal/LeetCode/tree/master/0278-first-bad-version) |
