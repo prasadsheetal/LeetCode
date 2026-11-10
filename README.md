@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/prasadsheetal/LeetCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/prasadsheetal/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/prasadsheetal/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/prasadsheetal/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/prasadsheetal/LeetCode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/prasadsheetal/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/prasadsheetal/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prasadsheetal/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/prasadsheetal/LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## Matrix
 |  |
 | ------- |
@@ -639,4 +641,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/prasadsheetal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/prasadsheetal/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/prasadsheetal/LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
