@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/prasadsheetal/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/prasadsheetal/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0748-shortest-completing-word](https://github.com/prasadsheetal/LeetCode/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/prasadsheetal/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/prasadsheetal/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/prasadsheetal/LeetCode/tree/master/0819-most-common-word) |
 | [1146-snapshot-array](https://github.com/prasadsheetal/LeetCode/tree/master/1146-snapshot-array) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/prasadsheetal/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0678-valid-parenthesis-string](https://github.com/prasadsheetal/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0748-shortest-completing-word](https://github.com/prasadsheetal/LeetCode/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/prasadsheetal/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/prasadsheetal/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/prasadsheetal/LeetCode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/prasadsheetal/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
